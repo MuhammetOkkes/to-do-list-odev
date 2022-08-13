@@ -1,2 +1,3 @@
-# to-do-list-odev
-to do list odev
+# PATİKA
+## TO DO LIST ÖDEVİ
+* Patika Linkim : https://app.patika.dev/okkes
